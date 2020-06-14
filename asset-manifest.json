@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/ZASPM/static/js/main.8181b88d.chunk.js",
+    "main.js.map": "/ZASPM/static/js/main.8181b88d.chunk.js.map",
+    "runtime~main.js": "/ZASPM/static/js/runtime~main.2a69f635.js",
+    "runtime~main.js.map": "/ZASPM/static/js/runtime~main.2a69f635.js.map",
+    "static/css/2.46439c26.chunk.css": "/ZASPM/static/css/2.46439c26.chunk.css",
+    "static/js/2.008c4c3f.chunk.js": "/ZASPM/static/js/2.008c4c3f.chunk.js",
+    "static/js/2.008c4c3f.chunk.js.map": "/ZASPM/static/js/2.008c4c3f.chunk.js.map",
+    "index.html": "/ZASPM/index.html",
+    "precache-manifest.22fb21573282b119461b792b92ed7d4d.js": "/ZASPM/precache-manifest.22fb21573282b119461b792b92ed7d4d.js",
+    "service-worker.js": "/ZASPM/service-worker.js",
+    "static/css/2.46439c26.chunk.css.map": "/ZASPM/static/css/2.46439c26.chunk.css.map"
+  }
+}
