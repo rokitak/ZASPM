@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rokitak.github.io/ZASPM",
+  "homepage": "https://rokitak.github.io/ZASPM/",
   "name": "excel-app",
   "version": "1.0.0",
   "description": "",
@@ -72,6 +72,7 @@
     "typescript": "3.3.3"
   },
   "scripts": {
+    "predeploy": "run build",
     "deploy": "gh-pages -d build",
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
